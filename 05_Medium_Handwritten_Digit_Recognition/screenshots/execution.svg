@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+<rect width="1200" height="760" fill="#f5f5f5"/>
+<rect x="35" y="35" width="1130" height="690" rx="12" fill="#111" stroke="#444"/>
+<text x="65" y="82" fill="#fff" font-family="monospace" font-size="22">Task 5 - Handwritten Digit Recognition</text>
+<text x="65" y="125" fill="#ddd" font-family="monospace" font-size="17">TensorFlow / Keras - MNIST</text>
+<line x1="65" y1="145" x2="1135" y2="145" stroke="#555"/>
+<text x="65" y="190" fill="#8be28b" font-family="monospace" font-size="18">Epoch 1/3</text>
+<text x="65" y="225" fill="#ddd" font-family="monospace" font-size="17">accuracy: 0.8966   loss: 0.3706   val_accuracy: 0.9567   val_loss: 0.1665</text>
+<text x="65" y="270" fill="#8be28b" font-family="monospace" font-size="18">Epoch 2/3</text>
+<text x="65" y="305" fill="#ddd" font-family="monospace" font-size="17">accuracy: 0.9512   loss: 0.1697   val_accuracy: 0.9668   val_loss: 0.1226</text>
+<text x="65" y="350" fill="#8be28b" font-family="monospace" font-size="18">Epoch 3/3</text>
+<text x="65" y="385" fill="#ddd" font-family="monospace" font-size="17">accuracy: 0.9648   loss: 0.1225   val_accuracy: 0.9730   val_loss: 0.1008</text>
+<line x1="65" y1="415" x2="1135" y2="415" stroke="#555"/>
+<text x="65" y="465" fill="#fff" font-family="monospace" font-size="24">Test accuracy: 0.9679</text>
+<text x="65" y="515" fill="#8be28b" font-family="monospace" font-size="21">Test accuracy: 96.79%</text>
+<text x="65" y="570" fill="#fff" font-family="monospace" font-size="20">Predictions for first 10 test images:</text>
+<text x="65" y="610" fill="#ddd" font-family="monospace" font-size="20">[7, 2, 1, 0, 4, 1, 4, 9, 6, 9]</text>
+<text x="65" y="675" fill="#aaa" font-family="monospace" font-size="16">Actual local execution result - TensorFlow/Keras MNIST</text>
+</svg>
